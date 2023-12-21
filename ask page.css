@@ -1,7 +1,7 @@
 body
 {margin: 0px;
     padding: 0px;
-    background: url('/landing page/images/Ask.png');
+    background: url('images/Ask.png');
     background-size: cover;
 }
 .topbar{
